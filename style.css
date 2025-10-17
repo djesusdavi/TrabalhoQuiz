@@ -41,7 +41,7 @@ main {
     background-size: cover;
     background-attachment: fixed;
     min-height: 92vh;
-    padding-bottom: 80px; /* garante espaço pro footer */
+    padding-bottom: 80px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -221,7 +221,6 @@ footer {
     transform: rotate(45deg) translate(-5px, -7px);
 }
 
-/* Estilo dos botões de opções do quiz */
 #opcoes button {
     display: block;
     margin: 8px auto;
